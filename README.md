@@ -2,7 +2,7 @@
 
 **Project Description**
 
-This project is a full-stack web application for a library system, developed as part of my thesis. The application is built using modern technologies such as React and TypeScript for the frontend, and Spring Boot for the backend. Its purpose is to provide a responsive and interactive user experience where users can search, borrow, review books, and manage their loans. The project also includes security measures and payment handling.
+This project is a full-stack web application for a library system, developed as part of my thesis. The application is built using modern technologies such as *React* and *TypeScript* for the frontend, and *Spring Boot* for the backend. Its purpose is to provide a responsive and interactive user experience where users can search, borrow, review books, and manage their loans. The project also includes security measures and payment handling.
 
 **Features**
 
@@ -14,7 +14,8 @@ This project is a full-stack web application for a library system, developed as 
 -	Payment Handling: Integration with Stripe for managing late return fees.
 -	Bookshelf: Users can view their borrowing history.
 
-**Technologies**
+
+**Technologies:**
 
 **Frontend**
 
@@ -35,7 +36,7 @@ This project is a full-stack web application for a library system, developed as 
 -	HTTPS for secure communication
 -	Stripe for payment handling
 
-**Usage**
+**Usage:**
 
 -	Register: Create a new user account.
 -	Login: Log in with your user account.
