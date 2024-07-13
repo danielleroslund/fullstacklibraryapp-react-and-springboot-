@@ -7,12 +7,12 @@ This project is a full-stack web application for a library system, developed as 
 **Features**
 
 -	**User Management:** Registration, login, and logout via *Okta*.
--	Book Management: Searching, borrowing, and reviewing books. Administrators can add, modify, and delete books.
--	Loan Management: Handling loan periods and statuses.
--	Review System: Capability for users to submit and view book reviews.
--	Secure Communication: *HTTPS* implementation for encrypted data transfer.
--	Payment Handling: Integration with *Stripe* for managing late return fees.
--	Bookshelf: Users can view their borrowing history.
+-	**Book Management:** Searching, borrowing, and reviewing books. Administrators can add, modify, and delete books.
+-	**Loan Management:** Handling loan periods and statuses.
+-	**Review System:** Capability for users to submit and view book reviews.
+-	**Secure Communication:** *HTTPS* implementation for encrypted data transfer.
+-	**Payment Handling:** Integration with *Stripe* for managing late return fees.
+-	**Bookshelf:** Users can view their borrowing history.
 
 **Technologies:**
 
@@ -37,14 +37,14 @@ This project is a full-stack web application for a library system, developed as 
 
 **Usage**
 
--	Register: Create a new user account.
--	Login: Log in with your user account.
--	Search Books: Use the search function to find books.
--	Borrow Books: Borrow available books.
--	Review Books: Leave reviews on books you have read.
--	Manage Loans: View and manage your current loans.
--	Bookshelf: Display history of your past loans.
--	Payment: Pay any late return fees via Stripe.
+-	**Register:** Create a new user account.
+-	**Login:** Log in with your user account.
+-	**Search Books:** Use the search function to find books.
+-	**Borrow Books:** Borrow available books.
+-	**Review Books:** Leave reviews on books you have read.
+-	**Manage Loans:** View and manage your current loans.
+-	**Bookshelf:** Display history of your past loans.
+-	**Payment:** Pay any late return fees via Stripe.
 
 **Security**
 
