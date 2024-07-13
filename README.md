@@ -1,10 +1,10 @@
 # Full-stack Library Application
 
-*Project Description*
+**Project Description**
 
 This project is a full-stack web application for a library system, developed as part of my thesis. The application is built using modern technologies such as React and TypeScript for the frontend, and Spring Boot for the backend. Its purpose is to provide a responsive and interactive user experience where users can search, borrow, review books, and manage their loans. The project also includes security measures and payment handling.
 
-# Features
+**Features**
 
 -	User Management: Registration, login, and logout via Okta.
 -	Book Management: Searching, borrowing, and reviewing books. Administrators can add, modify, and delete books.
@@ -14,28 +14,28 @@ This project is a full-stack web application for a library system, developed as 
 -	Payment Handling: Integration with Stripe for managing late return fees.
 -	Bookshelf: Users can view their borrowing history.
 
-# Technologies
+**Technologies**
 
-# Frontend:
+**Frontend**
 
 -	React
 -	TypeScript
 -	Bootstrap
 -	CSS
 
-# Backend:
+**Backend**
 
 -	Spring Boot
 -	JPA (Java Persistence API)
 -	SQL database
 
-# Other:
+**Other**
 
 -	JWT (JSON Web Tokens) for authentication
 -	HTTPS for secure communication
 -	Stripe for payment handling
 
-# Usage
+**Usage**
 
 -	Register: Create a new user account.
 -	Login: Log in with your user account.
@@ -46,15 +46,15 @@ This project is a full-stack web application for a library system, developed as 
 -	Bookshelf: Display history of your past loans.
 -	Payment: Pay any late return fees via Stripe.
 
-# Security
+**Security**
 
 HTTPS ensures that all data transfer is encrypted. Okta and JWT are used for user authentication and resource protection.
 
-# Lessons Learned
+**Lessons Learned**
 
 This project has provided me with a deeper understanding of full-stack development and effective frontend-backend integration. I have also learned about security and payment handling in web applications.
 
-# Future Improvements
+**Future Improvements**
 
 -	Testing: Develop more unit tests and integration tests.
 -	Functionality and Design: Add more features and enhance the user interface.
