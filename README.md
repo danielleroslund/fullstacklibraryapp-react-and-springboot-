@@ -6,14 +6,13 @@ This project is a full-stack web application for a library system, developed as 
 
 **Features**
 
--	User Management: Registration, login, and logout via Okta.
+-	**User Management:** Registration, login, and logout via *Okta*.
 -	Book Management: Searching, borrowing, and reviewing books. Administrators can add, modify, and delete books.
 -	Loan Management: Handling loan periods and statuses.
 -	Review System: Capability for users to submit and view book reviews.
--	Secure Communication: HTTPS implementation for encrypted data transfer.
--	Payment Handling: Integration with Stripe for managing late return fees.
+-	Secure Communication: *HTTPS* implementation for encrypted data transfer.
+-	Payment Handling: Integration with *Stripe* for managing late return fees.
 -	Bookshelf: Users can view their borrowing history.
-
 
 **Technologies:**
 
@@ -36,7 +35,7 @@ This project is a full-stack web application for a library system, developed as 
 -	HTTPS for secure communication
 -	Stripe for payment handling
 
-**Usage:**
+**Usage**
 
 -	Register: Create a new user account.
 -	Login: Log in with your user account.
