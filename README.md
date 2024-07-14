@@ -34,6 +34,7 @@ This project is a full-stack web application for a library system, developed as 
 -	JWT (JSON Web Tokens) for authentication
 -	HTTPS for secure communication
 -	Stripe for payment handling
+-	OKTA for identity and access management
 
 ## Usage
 
